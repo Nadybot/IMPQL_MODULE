@@ -1,6 +1,7 @@
 name = "IMPQL_MODULE"
 description = "A module for tricky implant calculations"
-version = "1.0.0"
+github = "Nadybot/IMPQL_MODULE"
+version = "1.0.1"
 author = "Nadyita"
 bot_type = "Nadybot"
 bot_version = "^5.0.0-beta1"
